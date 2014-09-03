@@ -1,0 +1,45 @@
+body {
+	background: #DDDDDD;
+
+}
+div {
+	display: block;
+}
+ul li {
+	list-style: none;
+}
+#chart_container {
+	width: 800px;
+	height: 500px;
+	background: #fff;
+	margin:auto;
+	box-shadow: 10px 10px 5px #888888;
+	position: relative;
+}
+
+.top_bar{
+	background: #313b3d;
+	height: 50px;
+}
+
+.top_bar_attr{
+	float:left;
+}
+
+.top_bar  ul li input {
+	padding: 2px;
+}
+
+#chart-area{
+	width: 500px;
+	height: 300px;
+	background:#cecece;
+	margin: 50px auto;
+
+
+}
+
+#bar-mu {
+	fill: black;
+
+}
